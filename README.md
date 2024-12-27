@@ -14,3 +14,6 @@ Reflexion:
 
 con este proyecto en mi opinion me resulto muy util para poder aplicar todo lo que se vio en el modulo aprendi tipos de datos, como recibir datos ingresados por un usuario asi como hacer calculos y devolverlos
 por lo que este proyecto me resulto muy util e interactivo
+
+
+pd. no sabia cual archivo subirlo por lo general es el que esta con terminacion ".ipynb" pero tambien subi el ".py" por simple precaucion
